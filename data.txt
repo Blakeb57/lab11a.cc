@@ -1,1 +1,6 @@
-
+1000 George Washington 
+2000 John Adams 
+1212 Thomas Jefferson 
+1313 Abraham Lincoln 
+1515 Jimmy Carter 
+1717 George Bush 
